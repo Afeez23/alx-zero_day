@@ -1,0 +1,5 @@
+touch 98
+echo '#!/bin/bash' >alx
+echo "ALX School" >>alx
+echo '#!/bin/bash' >school
+echo " The school is open" >>school
